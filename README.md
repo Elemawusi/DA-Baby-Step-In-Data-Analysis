@@ -8,6 +8,6 @@
 
 # Data Transformation: Data was cleaned, ensuring that empty spaces were removed. Pivot tables and charts were then created to visualize findings.  
 
-# Findings: 
+# Findings: 2014 had highest discount and this resulted in higher sales. US had the highest monthly sales. Amarilla and VTT were the top 2 products with highest discount and conversely this led to their high sales. 
 
-# Recommendation:
+# Recommendation: More discount should be given to other countries. Other products should have discounted prices to promote their sales. 
