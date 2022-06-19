@@ -4,10 +4,10 @@
 
 # Project Objective:
 
-# Data Sourcing: 
+# Data Sourcing: Financial Data from Github
 
 # Data Transformation:
 
-# Findings 
+# Findings:
 
 # Recommendation:
